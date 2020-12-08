@@ -1,2 +1,2 @@
-# -kolsky-projekt
+# skolsky-projekt
 Bankovy system
